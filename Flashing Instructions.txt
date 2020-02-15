@@ -5,7 +5,7 @@ TFTP server root directory and verify chcksums.
 2. Set TFTP sevrer adress 192.168.1.100/24 on local machine connected to Mojo Networks C-75 device.
 3. Modify U-Boot Environment for dual-boot:
 - Connect using console (cisco cable, 115200n8)
-- Power on and press enter when prompted 
+- Power on the Mojo Access point and in the console terminal press enter until you get prompt
 - Type or copy&paste one line at a time! from section below
 - If messed up - do not press enter, just powercycle and start over.
 //
